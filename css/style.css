@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+.myList {
+  text-align: center;
+  background-color: #f7f7f7;
+  min-height: 500px;
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 20px;
+}
+
+.item {
+  margin: auto;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  background-color: white;
+  border: 2px solid #424447;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.more, .less {
+  width: 150px;
+  margin: 10px;
+  height: 50px;
+}
+
+.buttons {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
